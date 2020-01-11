@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherGo</string>
+    <string name="provide_city_name">Provide city name</string>
+    <string name="search">search</string>
+    <string name="alert">alert</string>
+    <string name="send_mail">send</string>
+    <string name="friends_mail">Provide your friends mail</string>
+    <string name="back">back</string>
+    <string name="si">Shoud I stay or shoud I go?</string>
+    <string name="thanks">Thank you for using   WeatherGo App!</string>
+</resources>

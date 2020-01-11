@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="myGrayColor">#B4A29B9B</color>
+    <color name="persianBlue">#008499</color>
+    <color name="almostWhite">#DDE7E7</color>
+    <color name="hintColor">#C9FFFFFF</color>
+</resources>
